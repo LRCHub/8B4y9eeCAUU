@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "CLAP!",
+  "base_artist": "TREASURE",
+  "createdAt": "2026-02-28T04:28:32.698971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clap Your Hands",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Clap_Your_Hands_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Make It Clap (remix)",
+      "artist": "Busta Rhymes feat. Sean Paul",
+      "has_synced": false,
+      "path": "select/02_Make_It_Clap_(remix)_Busta_Rhymes_feat._Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make It Clap (feat. Spliff Star)",
+      "artist": "Busta Rhymes feat. Spliff Star",
+      "has_synced": true,
+      "path": "select/03_Make_It_Clap_(feat._Spliff_Star)_Busta_Rhymes_feat._Spliff_Star.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make It Clap Feat Spliff Star",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/04_Make_It_Clap_Feat_Spliff_Star_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clap Hands",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/05_Clap_Hands_Beck.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Clap Hands",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/06_Clap_Hands_Beck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boom Clap",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/07_Boom_Clap_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Clap Hands",
+      "artist": "Kamp!",
+      "has_synced": false,
+      "path": "select/08_Don't_Clap_Hands_Kamp!.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boom Clap - Japanese Version",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/09_Boom_Clap_-_Japanese_Version_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Clap Your Hands!",
+      "artist": "Clap Your Hands Say Yeah",
+      "has_synced": true,
+      "path": "select/10_Clap_Your_Hands!_Clap_Your_Hands_Say_Yeah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghost (ft. Clap Your Hands Say Yeah)",
+      "artist": "Claptone",
+      "has_synced": false,
+      "path": "select/11_Ghost_(ft._Clap_Your_Hands_Say_Yeah)_Claptone.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ghost (Feat. Clap Your Hands Say Yeah)",
+      "artist": "Claptone",
+      "has_synced": false,
+      "path": "select/12_Ghost_(Feat._Clap_Your_Hands_Say_Yeah)_Claptone.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Clap Your Hands",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/13_Clap_Your_Hands_Sia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Clap Your Hands To The Music",
+      "artist": "The Sylvers",
+      "has_synced": false,
+      "path": "select/14_Clap_Your_Hands_To_The_Music_The_Sylvers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CLAP!",
+      "artist": "TREASURE",
+      "has_synced": false,
+      "path": "select/pl_01_CLAP!_TREASURE.txt"
+    }
+  ]
+}
